@@ -5,8 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+          <img src={mus} className="Moo" alt="logo" />
           <p>Under Construction.</p>
-          <img src={mus} className="App-logo" alt="logo" />
+          <img src={mus} className="Moo-right" alt="logo" />
       </header>
     </div>
   );
