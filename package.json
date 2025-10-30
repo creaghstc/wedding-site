@@ -2,7 +2,7 @@
   "name": "wedding-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://creaghstc.github.io/wedding-site",
+  "homepage": "https://conorandmairead.ie",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
