@@ -1,16 +1,35 @@
 import './App.css';
-import mus from "./images/mus.png";
+import '@fontsource/parisienne';
+import '@fontsource-variable/merriweather';
+import mus from "./images/welcome.png";
+import {TabMenu} from "./components/menu";
 
-function App() {
+export function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-          <img src={mus} className="Moo" alt="logo" />
-          <p>Under Construction.</p>
-          <img src={mus} className="Moo-right" alt="logo" />
-      </header>
-    </div>
+      <div>
+          <div className={"banner"}></div>
+          <div className={"headerContainer"}>
+              <div className={"headerContent"}>
+                  <h1 style={{marginBottom: "0px"}}>Conor & Mairead</h1>
+                  <div style={{
+                      display: "flex",
+                      flexDirection: "column",
+                      alignItems: "center",
+                  }}>
+                      <p style={{marginTop: "0px", textAlign: "center"}}>1st May 2026</p>
+
+                  </div>
+
+              </div>
+
+          </div>
+
+          <div className={"mainContainer"}>
+              <img src={mus} alt={"dog with sign"} style={{
+                  height: "15vmin"
+              }}/>
+              <TabMenu></TabMenu>
+          </div>
+      </div>
   );
 }
-
-export default App;
