@@ -1,9 +1,7 @@
-// TabMenu.tsx - Horizontal menu that shows/hides content sections
 import { useState } from 'react';
 import {Information} from "../pages/information";
 import {Directions} from "../pages/directions";
 import {Accommodation} from "../pages/accommodation";
-import {Rsvp} from "../pages/rsvp";
 
 const sections = [
     {
@@ -25,13 +23,6 @@ const sections = [
         title: 'Accommodation',
         content: (
             <Accommodation></Accommodation>
-        )
-    },
-    {
-        id: 'rsvp',
-        title: 'RSVP',
-        content: (
-            <Rsvp></Rsvp>
         )
     }
 ];

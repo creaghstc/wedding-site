@@ -2,34 +2,29 @@ import { useState } from 'react';
 
 const events = [
     {
-        time: '12:00 PM',
+        time: '12:45 PM',
         title: 'Ceremony',
         description: 'Join us for the official ceremony at St. Eunans\'s Cathedral.',
-        icon: '💒'
     },
     {
         time: '2:00 PM',
         title: 'Photos',
         description: 'Family portraits immediately following the ceremony.',
-        icon: '📸'
     },
     {
         time: '3:00 PM',
         title: 'Reception',
         description: 'Drinks reception in An Ghrianan',
-        icon: '🍹'
     },
     {
         time: '6:00 PM',
         title: 'Dinner',
         description: 'Dinner and Toasts',
-        icon: '🍽️'
     },
     {
         time: '9:00 PM',
         title: 'Band & DJ',
         description: 'The Band will begin followed by the DJ',
-        icon: '🎶'
     }
 ];
 
