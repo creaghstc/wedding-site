@@ -10,7 +10,7 @@ export function App() {
           <div className={"banner"}>
               <div className={"headerContainer"}>
                   <div className={"headerContent"}>
-                      <h1 style={{marginBottom: "0px"}}>Conor & Mairead</h1>
+                      <h1 style={{marginBottom: "0px"}}>Mairéad and Conor</h1>
                       <div style={{
                           display: "flex",
                           flexDirection: "column",
