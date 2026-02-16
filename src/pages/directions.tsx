@@ -1,7 +1,7 @@
 export function Directions() {
     return (
         <div className="directionsContainer">
-            <p>The ceremony will be held in St. Eunan's Cathedral, please be seated <b>by 12:45</b>. <br/>
+            <p>The ceremony will be held in St. Eunan&apos;s Cathedral, please be seated <b>by 12:45</b>. <br/>
                 There will be a bus leaving for the recpetion after the ceremony, please let us know in the <a href={"https://withjoy.com/mairead-with-conor/rsvp"} target={"_blank"} rel="noreferrer">RSVP</a> if you will require this bus service.
             </p>
             <iframe

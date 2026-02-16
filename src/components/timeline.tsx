@@ -29,6 +29,7 @@ const events = [
 ];
 
 export function WeddingTimeline() {
+    // eslint-disable-next-line no-unused-vars
     const [hoveredEvent, setHoveredEvent] = useState(0);
 
     return (
