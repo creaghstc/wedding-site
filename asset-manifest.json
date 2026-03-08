@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.11313035.css",
-    "main.js": "/static/js/main.d16e8fbd.js",
+    "main.css": "/static/css/main.0fe18e31.css",
+    "main.js": "/static/js/main.aa43a5e5.js",
+    "static/media/banner-mob.jpg": "/static/media/banner-mob.cddcae20d1478c818db7.jpg",
     "static/media/banner.jpg": "/static/media/banner.f2a0f40f8792d1564ae6.jpg",
     "static/media/welcome.png": "/static/media/welcome.a626c1640e4e54608c21.png",
     "static/media/merriweather-latin-wght-normal.woff2": "/static/media/merriweather-latin-wght-normal.b7b2172165db61d7fed8.woff2",
@@ -14,11 +15,11 @@
     "static/media/parisienne-latin-ext-400-normal.woff2": "/static/media/parisienne-latin-ext-400-normal.d6f1ea498076714d522c.woff2",
     "static/media/merriweather-vietnamese-wght-normal.woff2": "/static/media/merriweather-vietnamese-wght-normal.bb7c7a0fbfe50de873c6.woff2",
     "index.html": "/index.html",
-    "main.11313035.css.map": "/static/css/main.11313035.css.map",
-    "main.d16e8fbd.js.map": "/static/js/main.d16e8fbd.js.map"
+    "main.0fe18e31.css.map": "/static/css/main.0fe18e31.css.map",
+    "main.aa43a5e5.js.map": "/static/js/main.aa43a5e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.11313035.css",
-    "static/js/main.d16e8fbd.js"
+    "static/css/main.0fe18e31.css",
+    "static/js/main.aa43a5e5.js"
   ]
 }
