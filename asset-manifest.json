@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.48ec9c2a.css",
-    "main.js": "/static/js/main.2794b7cf.js",
-    "static/js/453.ab4078b5.chunk.js": "/static/js/453.ab4078b5.chunk.js",
-    "static/media/mus.png": "/static/media/mus.f89357f54968075f6920.png",
+    "main.css": "/static/css/main.2e500165.css",
+    "main.js": "/static/js/main.52cc5765.js",
+    "static/media/banner.jpg": "/static/media/banner.f2a0f40f8792d1564ae6.jpg",
+    "static/media/welcome.png": "/static/media/welcome.a626c1640e4e54608c21.png",
+    "static/media/merriweather-latin-wght-normal.woff2": "/static/media/merriweather-latin-wght-normal.b7b2172165db61d7fed8.woff2",
+    "static/media/merriweather-latin-ext-wght-normal.woff2": "/static/media/merriweather-latin-ext-wght-normal.e54e9e57dc488577eeb8.woff2",
+    "static/media/merriweather-cyrillic-wght-normal.woff2": "/static/media/merriweather-cyrillic-wght-normal.d68c0c69767a922f3959.woff2",
+    "static/media/merriweather-cyrillic-ext-wght-normal.woff2": "/static/media/merriweather-cyrillic-ext-wght-normal.f9e3ee8d8791fafb0619.woff2",
+    "static/media/parisienne-latin-400-normal.woff": "/static/media/parisienne-latin-400-normal.e6d7780e0d02794658d0.woff",
+    "static/media/parisienne-latin-400-normal.woff2": "/static/media/parisienne-latin-400-normal.823326c4837a3153093f.woff2",
+    "static/media/parisienne-latin-ext-400-normal.woff": "/static/media/parisienne-latin-ext-400-normal.b68fa260d4509e2f24ed.woff",
+    "static/media/parisienne-latin-ext-400-normal.woff2": "/static/media/parisienne-latin-ext-400-normal.d6f1ea498076714d522c.woff2",
+    "static/media/merriweather-vietnamese-wght-normal.woff2": "/static/media/merriweather-vietnamese-wght-normal.bb7c7a0fbfe50de873c6.woff2",
     "index.html": "/index.html",
-    "main.48ec9c2a.css.map": "/static/css/main.48ec9c2a.css.map",
-    "main.2794b7cf.js.map": "/static/js/main.2794b7cf.js.map",
-    "453.ab4078b5.chunk.js.map": "/static/js/453.ab4078b5.chunk.js.map"
+    "main.2e500165.css.map": "/static/css/main.2e500165.css.map",
+    "main.52cc5765.js.map": "/static/js/main.52cc5765.js.map"
   },
   "entrypoints": [
-    "static/css/main.48ec9c2a.css",
-    "static/js/main.2794b7cf.js"
+    "static/css/main.2e500165.css",
+    "static/js/main.52cc5765.js"
   ]
 }
