@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.11313035.css",
-    "main.js": "/static/js/main.52cc5765.js",
+    "main.js": "/static/js/main.d16e8fbd.js",
     "static/media/banner.jpg": "/static/media/banner.f2a0f40f8792d1564ae6.jpg",
     "static/media/welcome.png": "/static/media/welcome.a626c1640e4e54608c21.png",
     "static/media/merriweather-latin-wght-normal.woff2": "/static/media/merriweather-latin-wght-normal.b7b2172165db61d7fed8.woff2",
@@ -15,10 +15,10 @@
     "static/media/merriweather-vietnamese-wght-normal.woff2": "/static/media/merriweather-vietnamese-wght-normal.bb7c7a0fbfe50de873c6.woff2",
     "index.html": "/index.html",
     "main.11313035.css.map": "/static/css/main.11313035.css.map",
-    "main.52cc5765.js.map": "/static/js/main.52cc5765.js.map"
+    "main.d16e8fbd.js.map": "/static/js/main.d16e8fbd.js.map"
   },
   "entrypoints": [
     "static/css/main.11313035.css",
-    "static/js/main.52cc5765.js"
+    "static/js/main.d16e8fbd.js"
   ]
 }
