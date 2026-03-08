@@ -1,7 +1,6 @@
 body {
     margin: 0;
     background: #fdfdfb; /* main body background color */
-    font-family: 'Great Vibes', cursive;
 }
 
 .banner {
@@ -15,6 +14,7 @@ body {
     color: #9c84d1;
     font-size:40px;
     font-family: 'Parisienne', cursive;
+    padding: 0 40px 0 40px;
     padding: 0 40px 0 40px;
     margin: 80px auto;
     text-shadow:
@@ -131,7 +131,6 @@ body {
 
 .timeline-title {
     text-align: center;
-    font-family: 'Great Vibes', cursive;
     font-size: 2.5rem;
     color: #9c84d1;
     margin-bottom: 3rem;
@@ -258,9 +257,11 @@ body {
 }
 
 @media (max-width: 768px) {
-    /*.tab-nav {*/
-    /*    flex-wrap: wrap;*/
-    /*}*/
+    .banner {
+        background:
+                linear-gradient(to bottom, rgba(11, 17, 32, 0) 70%, #fdfdfb 100%),
+                url('images/banner-mob.jpg') center/cover no-repeat;
+    }
 
     .tab-btn {
         flex: 1 1 50%;
@@ -269,7 +270,7 @@ body {
     }
 
     .headerContent {
-        font-size: 20px;
+        font-size: 18px;
     }
 
     .directions {
@@ -281,10 +282,10 @@ body {
     }
 
     .timeline-item {
+        padding-top: 15px;
         margin-left: 60px !important;
         margin-right: 0 !important;
     }
-
     .timeline-item.right {
         flex-direction: row;
     }

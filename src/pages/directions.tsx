@@ -1,8 +1,9 @@
 export function Directions() {
     return (
         <div className="directionsContainer">
-            <p>The ceremony will be held in St. Eunan&apos;s Cathedral, please be seated <b>by 12:45</b>. <br/>
-                There will be a bus leaving for the recpetion after the ceremony, please let us know in the <a href={"https://withjoy.com/mairead-with-conor/rsvp"} target={"_blank"} rel="noreferrer">RSVP</a> if you will require this bus service.
+            <p>The ceremony will be held in St. Eunan&apos;s Cathedral, please be seated <b>by 12:45</b>.<p/>
+                There will be a bus leaving for the recpetion after the ceremony.<p/>
+                Please let us know in the <a href={"https://withjoy.com/mairead-with-conor/rsvp"} target={"_blank"} rel="noreferrer">RSVP</a> if you will require this bus service.
             </p>
             <iframe
                 title={"Cathedral Directions"}
@@ -10,10 +11,9 @@ export function Directions() {
                 loading="lazy" className={"directions"}
                 referrerPolicy="no-referrer-when-downgrade"></iframe>
 
-            <p>The reception will be in An Ghrianan Hotel in Burt at 3:30pm.<br/>
-                There will be a bus leaving reception that will stop off in Letterkenny and continue to Creeslough after the evening has finished, please let us know in the <a href={"https://withjoy.com/mairead-with-conor/rsvp"} target={"_blank"} rel="noreferrer">RSVP</a> if you will require this bus service.
-
-
+            <p>The reception will be in An Ghrianan Hotel in Burt at 3:30pm.<p/>
+                There will be a bus leaving reception that will stop off in Letterkenny and continue to Creeslough after the evening has finished.<p/>
+                Please let us know in the <a href={"https://withjoy.com/mairead-with-conor/rsvp"} target={"_blank"} rel="noreferrer">RSVP</a> if you will require this bus service.
             </p>
             <iframe
                 title={"Reception Directions"}

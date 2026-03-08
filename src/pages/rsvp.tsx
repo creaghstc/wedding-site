@@ -7,7 +7,7 @@ export function Rsvp() {
                 rel="noopener noreferrer"
                 className={"rsvpButton"}
             >
-                Click Me!! -Let us know if you can make it
+                Click Me to RSVP :)
             </a>
         </>
     )
