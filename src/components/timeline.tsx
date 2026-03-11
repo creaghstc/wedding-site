@@ -14,17 +14,17 @@ const events = [
     {
         time: '3:00 PM',
         title: 'Reception',
-        description: 'Drinks reception in An Grianan',
+        description: 'Drinks reception in An Grianan.',
     },
     {
         time: '6:00 PM',
         title: 'Dinner',
-        description: 'Dinner and Toasts',
+        description: 'Dinner and Toasts.',
     },
     {
         time: '9:00 PM',
         title: 'Band & DJ',
-        description: 'The Band will begin followed by the DJ',
+        description: 'The Band will begin, followed by the DJ.',
     }
 ];
 
