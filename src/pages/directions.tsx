@@ -11,7 +11,7 @@ export function Directions() {
                 loading="lazy" className={"directions"}
                 referrerPolicy="no-referrer-when-downgrade"></iframe>
 
-            <p>The reception will be in An Ghrianan Hotel in Burt at 3:30pm.<p/>
+            <p>The reception will be in An Grianan Hotel in Burt at 3:30pm.<p/>
                 There will be a bus leaving reception that will stop off in Letterkenny and continue to Creeslough after the evening has finished.<p/>
                 Please let us know in the <a href={"https://withjoy.com/mairead-with-conor/rsvp"} target={"_blank"} rel="noreferrer">RSVP</a> if you will require this bus service.
             </p>

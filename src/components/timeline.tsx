@@ -14,7 +14,7 @@ const events = [
     {
         time: '3:00 PM',
         title: 'Reception',
-        description: 'Drinks reception in An Ghrianan',
+        description: 'Drinks reception in An Grianan',
     },
     {
         time: '6:00 PM',
